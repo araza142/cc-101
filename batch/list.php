@@ -6,7 +6,7 @@
 <h2>Cloud Computing 101 - Batch</h2>
 <br />
 
-<table>
+<table width="75%">
 <tr>
 
 <td width="25%">
