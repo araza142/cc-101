@@ -9,12 +9,12 @@
 <table>
 <tr>
 
-<td width="25%">
+<td width="25%" valign="top">
 	<ul>
-		<li>Instructor</li>
+		<h3>Instructor</h3>
 		<li><a href="araza.php" target="iframe_a">Ali Raza</a></li>
-		<li>* * * * * *</li>
-		<li>Students</li>
+		<br />
+		<h3>Students</h3>
 		<!-- Add your names below. One line per student -->
 	</ul>
 </td>
