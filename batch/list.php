@@ -12,10 +12,16 @@
 
 <td width="25%">
 	<ul>
+		<li>Instructor</li>
 		<li><a href="araza.php" target="iframe_a">Ali Raza</a></li>
-		<li>* * * * * * * *</li>
-		<!-- Add your names below -->
+		<li>* * * * * *</li>
+		<li>Students</li>
+		<!-- Add your names below. One line per student -->
 	</ul>
+</td>
+
+<!-- Just some space -->
+<td>
 </td>
 
 <td width="65%">
