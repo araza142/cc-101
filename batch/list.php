@@ -5,7 +5,6 @@
 <br />
 <h2>Cloud Computing 101 - Batch</h2>
 <br />
-<br />
 
 <table>
 <tr>
@@ -24,8 +23,8 @@
 <td>
 </td>
 
-<td width="65%">
-	<iframe height="300px" width="90%" src="demo_iframe.htm" name="iframe_a"></iframe>
+<td width="70%">
+	<iframe height="400px" width="100%" src="demo_iframe.htm" name="iframe_a"></iframe>
 </td>
 
 </tr>
