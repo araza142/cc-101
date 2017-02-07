@@ -15,7 +15,7 @@
 		<li><a href="araza.php" target="iframe_a">Ali Raza</a></li>
 		<br />
 		<h3>Students</h3>
-		<!-- Add your names below. One line per student -->
+		<li><a href="fijaz.php" target="iframe_a">Faisal Ijaz</a></li>
 	</ul>
 </td>
 
@@ -29,6 +29,6 @@
 
 </tr>
 </table>
-	
+
 </body>
 </html>
