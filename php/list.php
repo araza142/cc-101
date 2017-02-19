@@ -16,6 +16,7 @@
 		<br />
 		<h3>Students</h3>
 		<li><a href="fijaz.php" target="iframe_a">Faisal Ijaz</a></li>
+		<li><a href="hraza.php" target="iframe_a">Hassan Raza</a></li>
 	</ul>
 </td>
 
